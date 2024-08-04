@@ -1,0 +1,12 @@
+{
+  "cSpell.words": ["operandos"],
+  "python.terminal.activateEnvironment": true,
+  "python.defaultInterpreterPath": "~/.venv/Scripts/python.exe",
+  "python.REPL.enableREPLSmartSend": false,
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": true,
+    "editor.wordBasedSuggestions": "off",
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
+}
